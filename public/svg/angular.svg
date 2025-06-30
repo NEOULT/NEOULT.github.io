@@ -1,0 +1,5 @@
+<svg width="40" height="40" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon fill="#E23237" points="125,10 240,50 215,210 125,240 35,210 10,50"/>
+  <polygon fill="#B52E31" points="125,10 125,34 125,34 125,217 125,240 215,210 240,50"/>
+  <path fill="#fff" d="M125 45L60 200h30l10-25h50l10 25h30L125 45zm18 100h-36l18-45 18 45z"/>
+</svg>
